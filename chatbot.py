@@ -2,7 +2,7 @@
 """
 Created on Sat Jul 28 19:58:55 2018
 
-@author: chandan
+@author: Harshit
 """
 
 ## Importing the required libraries
